@@ -15,7 +15,6 @@ import TeacherDashboard from './TeacherDashboard';
 import AdminDashboard from './AdminDashboard';
 import LoginDialog from '../components/auth/LoginDialog';
 import RegisterDialog from '../components/auth/RegisterDialog';
-import StudentsPage from '../components/StudentsPage';
 
 type UserType = 'guest' | 'student' | 'teacher' | 'admin' | 'assistant';
 
