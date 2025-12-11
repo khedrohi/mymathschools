@@ -297,8 +297,6 @@ const Index = () => {
                 الدعم الفني
               </Button>
                <div>
-      <h1>My School Portal</h1>
-      <StudentsPage />
     </div>
             </div>
           </div>
