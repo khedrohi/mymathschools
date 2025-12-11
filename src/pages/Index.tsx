@@ -295,8 +295,7 @@ const Index = () => {
               <Button variant="ghost" size="sm" className="text-gray-400 hover:text-white">
                 الدعم الفني
               </Button>
-               <div>
-    </div>
+
             </div>
           </div>
         </div>
