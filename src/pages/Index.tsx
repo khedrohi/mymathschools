@@ -15,6 +15,7 @@ import TeacherDashboard from './TeacherDashboard';
 import AdminDashboard from './AdminDashboard';
 import LoginDialog from '../components/auth/LoginDialog';
 import RegisterDialog from '../components/auth/RegisterDialog';
+import StudentsPage from '@/components/StudentsPage';
 
 type UserType = 'guest' | 'student' | 'teacher' | 'admin' | 'assistant';
 
@@ -295,6 +296,10 @@ const Index = () => {
               <Button variant="ghost" size="sm" className="text-gray-400 hover:text-white">
                 الدعم الفني
               </Button>
+               <div>
+      <h1>My School Portal</h1>
+      <StudentsPage />
+    </div>
             </div>
           </div>
         </div>
