@@ -295,6 +295,10 @@ const Index = () => {
               <Button variant="ghost" size="sm" className="text-gray-400 hover:text-white">
                 الدعم الفني
               </Button>
+<div>
+      <h1>My School Portal</h1>
+      <StudentsPage />
+    </div>
 
             </div>
           </div>
