@@ -371,6 +371,7 @@ const IndexContent = () => {
                   <Award className="h-5 w-5 ml-2" />
                   انضم كمدرس
                 </Button>
+                <h1>Hello Test</h1>
               </DialogTrigger>
               <DialogContent className="max-w-6xl max-h-[90vh] overflow-hidden p-0">
                 <TeacherRegistration onClose={() => {}} />
