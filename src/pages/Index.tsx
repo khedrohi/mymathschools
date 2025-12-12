@@ -297,7 +297,6 @@ const Index = () => {
               </Button>
 <div>
       <h1>My School Portal</h1>
-      <StudentsPage />
     </div>
 
             </div>
