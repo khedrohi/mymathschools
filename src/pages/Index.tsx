@@ -296,6 +296,7 @@ const Index = () => {
                 الدعم الفني
               </Button>
             </div>
+            Hello
           </div>
         </div>
       </footer>
